@@ -36,45 +36,45 @@
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="SolidWorks.Interop.sldworks, Version=24.3.0.57, Culture=neutral, PublicKeyToken=7c4797c3e4eeac03, processorArchitecture=MSIL">
+    <Reference Include="SolidWorks.Interop.sldworks">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>..\..\References\2017\SolidWorks.Interop.sldworks.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.sldworks.dll</HintPath>
     </Reference>
     <Reference Include="SolidWorks.Interop.sw3dprinter">
-      <HintPath>..\..\References\2017\SolidWorks.Interop.sw3dprinter.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.sw3dprinter.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swcommands, Version=24.3.0.57, Culture=neutral, PublicKeyToken=0fda92720ba7919f, processorArchitecture=MSIL">
+    <Reference Include="SolidWorks.Interop.swcommands">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swcommands.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swcommands.dll</HintPath>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swconst, Version=24.3.0.57, Culture=neutral, PublicKeyToken=19f43e188e4269d8, processorArchitecture=MSIL">
+    <Reference Include="SolidWorks.Interop.swconst">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swconst.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swconst.dll</HintPath>
     </Reference>
     <Reference Include="SolidWorks.Interop.swdimxpert">
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swdimxpert.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swdimxpert.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swdocumentmgr, Version=24.3.0.57, Culture=neutral, PublicKeyToken=e52dfa2d3a1e978a, processorArchitecture=MSIL">
+    <Reference Include="SolidWorks.Interop.swdocumentmgr">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swdocumentmgr.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swdocumentmgr.dll</HintPath>
     </Reference>
     <Reference Include="SolidWorks.Interop.swmotionstudy">
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swmotionstudy.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swmotionstudy.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swpublished, Version=24.3.0.57, Culture=neutral, PublicKeyToken=89a97bdc5284e6d8, processorArchitecture=MSIL">
+    <Reference Include="SolidWorks.Interop.swpublished">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>..\..\References\2017\SolidWorks.Interop.swpublished.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.swpublished.dll</HintPath>
     </Reference>
     <Reference Include="SolidWorks.Interop.SWRoutingLib">
-      <HintPath>..\..\References\2017\SolidWorks.Interop.SWRoutingLib.dll</HintPath>
+      <HintPath>c:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\CLR2\SolidWorks.Interop.SWRoutingLib.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
